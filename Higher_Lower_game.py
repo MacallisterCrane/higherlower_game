@@ -1,6 +1,6 @@
 # Display art
 from art import logo, vs
-from data_for_higher_lower import data
+from data_for_HigherLower import data
 import random
 
 
